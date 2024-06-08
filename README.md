@@ -1,12 +1,12 @@
 # Personal Website Deployment on Amazon S3
 
-This guide provides detailed steps to deploy a static website (HTML, CSS, JavaScript) on Amazon S3. 
+This guide provides detailed steps to deploy a static website (HTML) on Amazon S3. 
 
 ## Prerequisites
 
 - An AWS account
 - AWS CLI installed and configured (optional for automation)
-- Static website files (HTML, CSS, JavaScript)
+- Static website files (HTML)
 
 ## Steps to Deploy Your Website
 
