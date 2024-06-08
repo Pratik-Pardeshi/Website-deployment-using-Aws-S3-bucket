@@ -63,7 +63,7 @@ This guide provides detailed steps to deploy a static website (HTML) on Amazon S
    Upload files:
    - Click on the "Objects" tab.
    - Click "Upload."
-   - Add your files (HTML, CSS, JavaScript, images, etc.).
+   - Add your files (HTML).
    - Click "Upload."
 
 6. Access Your Website
